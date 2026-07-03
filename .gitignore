@@ -1,0 +1,9 @@
+/target/
+/.idea/
+*.iml
+
+# Firebase secrets must never be committed.
+/key.json
+/firebase.properties
+/src/main/resources/files/key.json
+/src/main/resources/files/firebase.properties

@@ -1,0 +1,9 @@
+# Copy this file to firebase.properties. Do not commit firebase.properties.
+# Find the Web API key in Firebase Console > Project settings > General.
+apiKey=YOUR_FIREBASE_WEB_API_KEY
+
+# Use the exact bucket shown in Firebase Console > Storage.
+storageBucket=YOUR_PROJECT_ID.firebasestorage.app
+
+# Optional when key.json is a service-account key for the same project.
+projectId=YOUR_PROJECT_ID
